@@ -1,27 +1,54 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# 🚀 Minha Contribuição ao Projeto Open Source da DIO
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## 📋 Sobre a Contribuição
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Esta contribuição foi realizada como parte do desafio **"Contribuindo em um Projeto Open Source no GitHub"** da Digital Innovation One (DIO). O objetivo foi adicionar uma nova seção ao README para incentivar novos colaboradores.
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+---
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+## 💡 Novas Seções Adicionadas
+
+- **🤝 Como Contribuir:** Guia rápido para quem deseja colaborar com o projeto.
+- **📚 Recursos Úteis:** Links de documentação e tutoriais relacionados ao Git e GitHub.
+
+---
+
+## 🤝 Como Contribuir
+
+1. Faça um **Fork** deste repositório.
+2. Clone o repositório forkado em sua máquina:
+   ```bash
+   git clone https://github.com/joaomarcosleal/dio-lab-open-source.git
+   ```
+3. Crie uma nova branch para suas alterações:
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+4. Realize as mudanças necessárias e faça o commit:
+   ```bash
+   git add .
+   git commit -m "Adicionei seção de contribuição e recursos úteis"
+   ```
+5. Envie as alterações para o GitHub:
+   ```bash
+   git push origin minha-contribuicao
+   ```
+6. Crie um **Pull Request** no repositório original.
+
+---
+
+## 📚 Recursos Úteis
+
+- [Guia Oficial do Git](https://git-scm.com/doc)
+- [Documentação do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub na DIO](https://www.dio.me/)
+
+---
+
+👤 **Contribuidor:** [João Marcos França dos Santos Leal](https://github.com/joaomarcosleal)  
+💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-leal/)  
+📧 **Contato:** joaomarcos@email.com
+
+---
+
+✅ _Esta contribuição tem como objetivo incentivar mais pessoas a colaborar com projetos Open Source._
